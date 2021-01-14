@@ -1,0 +1,19 @@
+/*------Ini Adalah Css Costume Atau Native---*/
+.sukses {
+margin-top: 20px;
+
+ width: 800px;
+ height: 150px;
+ background: #90EE90;
+ font-family: sans-serif;
+ border-radius: 5px;
+
+}
+
+.sukses h2{
+  padding-top: 10px;
+}
+
+a .link{
+  text-decoration: none;
+}
